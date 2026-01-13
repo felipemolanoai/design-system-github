@@ -13,7 +13,8 @@
     ".": {
       "import": "./dist/design-system-github.js",
       "require": "./dist/design-system-github.umd.cjs"
-    }
+    },
+    "./dist/design-system-github.css": "./dist/design-system-github.css"
   },
   "scripts": {
     "dev": "vite",
