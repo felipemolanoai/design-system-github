@@ -1,6 +1,6 @@
 /* src/components/Button/Button.css */
 .custom-btn {
-    background-color: #008d3f;
+    background-color: #297FB8;
     /* Azul */
     color: white;
     padding: 10px 20px;
@@ -12,5 +12,5 @@
 }
 
 .custom-btn:hover {
-    background-color: #00ff73;
+    background-color: #194C73;
 }
